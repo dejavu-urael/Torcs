@@ -217,4 +217,4 @@ Torcs is released under the GPL license, which means you can enjoy the full vers
 Take your racing skills to the next level! Download Torcs free today and experience the thrill of the race like never before.
 
 ---
-**Last updated:** 2026-09-17 16:18:54 UTC
+**Last updated:** 2026-09-17 20:00:43 UTC
